@@ -1,0 +1,3 @@
+This is a project made by me.
+It is based on a project I did for my Luck Chance and probability final assignment. It is based on a game I devised about cards and dice, in which four players get two cards and the player with the biggest difference between the sum of the cards and the sum of the dice loses and is disqualified.
+The program recreates the game 100 times, prints it, eliminates the players, marks a winner and finds the experimental probability of each player to win after 100 rounds of the game, prints it in a graph and calculates the winning percentage of the casino every 100 rounds.

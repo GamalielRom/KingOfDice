@@ -1,0 +1,11 @@
+Requirements
+Visual Studio Code
+Python -Latest version
+Powershell 
+matplotlib.pyplot
+matplotlib.backends.backend_tkagg
+tkinter
+To test the program you should open the windows powershell and enter the next command:
+ python FinalProyect.p
+You could see the output on the terminal and a pop up should apper with the graph
+Thank you for watching this project
